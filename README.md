@@ -10,4 +10,4 @@ Among California renter households, who spends too much of their income on housi
 6. **What can this data not show?** The limits
 
 ## Definition of terms
-In this study, **Cost burdened** means a renter household that spends 30% or more but less than 50% of his/her income on housing. **Severely ost burdened** means a renter household that spends 50% or more of his/her income on housing.
+In this study, **Cost burdened** means a renter household that spends 30% or more but less than 50% of his/her income on housing. **Severely cost burdened** means a renter household that spends 50% or more of his/her income on housing.
